@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "77288750861",
+    "project_id": "smart-reply-firebase",
+    "storage_bucket": "smart-reply-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:77288750861:android:258ca2660b333a1a30fa44",
+        "android_client_info": {
+          "package_name": "com.example.smartreplyfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "77288750861-ibm55t6qnqj8vjd4qtnlgt5occokscoe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyrqQ23GYVyuBoWT-uuZfacY4sqExx8hY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "77288750861-ibm55t6qnqj8vjd4qtnlgt5occokscoe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:77288750861:android:fa3a20c2a51bddc830fa44",
+        "android_client_info": {
+          "package_name": "com.github.artlessandro.smartreplyfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "77288750861-ibm55t6qnqj8vjd4qtnlgt5occokscoe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyrqQ23GYVyuBoWT-uuZfacY4sqExx8hY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "77288750861-ibm55t6qnqj8vjd4qtnlgt5occokscoe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
